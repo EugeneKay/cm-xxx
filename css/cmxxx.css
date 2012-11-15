@@ -13,16 +13,23 @@ a:active {
 	display: none;
 }
 .center {
+	display: block;
 	margin-left: auto;
 	margin-right: auto;
+	text-align: center;
 }
 body
 {
 	font-family: Verdana,Arial,sans-serif;
 	font-size: 1.1em;
 }
+#footer {
+	position: fixed;
+	bottom: 0px;
+	width: 100%;
+}
 #footer div {
-	width: 500px;
+	width: 600px;
 	position: static;
 	text-align: center;
 	margin-left: auto;
