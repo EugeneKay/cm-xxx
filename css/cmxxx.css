@@ -15,7 +15,7 @@ body {
 }
 
 #duck:hover {
-	background: #FFF url(../img/bikini-off.png) center top no-repeat;
+	background: transparent url(../img/bikini-off.png) center top no-repeat;
 	display:block;
 	height:0;
 	width:0;
