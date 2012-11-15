@@ -1,0 +1,23 @@
+
+a:link,
+a:visited {
+	text-decoration: none;
+	color: #00f;
+}
+a:hover,
+a:active {
+	text-decoration: none;
+	color: #f00;
+}
+.hidden {
+	display: none;
+}
+.center {
+	margin: 0 auto;
+}
+body
+{
+	font-family: Verdana,Arial,sans-serif;
+	font-size: 1.1em;
+}
+
