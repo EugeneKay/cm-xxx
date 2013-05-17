@@ -15,7 +15,7 @@ RewriteRule ^(.*)$ https://github.com/EugeneKay/cm-xxx [L,R=307]
 
 # Hello
 RewriteCond %{REQUEST_URI} ^(?:/?)hello$ [NC]
-RewriteRule ^(.*)$ http://eugenekay.com/img/hello.jpg [L,R=307]
+RewriteRule ^(.*)$ http://stretchmyan.us [L,R=307]
 
 ## Correct Domain
 RewriteCond %{SERVER_PORT} ^80$
